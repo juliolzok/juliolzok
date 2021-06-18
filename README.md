@@ -10,4 +10,3 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juliolzok&hide_langs_below=.25&theme=radical">
 </p>
-`
